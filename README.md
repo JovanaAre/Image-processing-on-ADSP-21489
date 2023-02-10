@@ -1,1 +1,1 @@
-# Image-processing-on-ADSP-21489
+# Segmentacija slike upotrebom algoritma za detekciju ivica na ADSP-21489 razvojnoj platformi
