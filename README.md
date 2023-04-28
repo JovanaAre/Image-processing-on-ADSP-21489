@@ -1,4 +1,4 @@
-# Segmentacija slike upotrebom algoritma za detekciju ivica na ADSP-21489 razvojnoj platformi
+# Segmentacija slike upotrebom algoritma za detekciju ivica na ADSP-21489 razvojnoj platformi (_Sistemi za digitalnu obradu signala_)
 
 U okviru zadatka implementirana je segmentacija slike korištenjem 4 različita detektora ivica (_Kirsch_, _Prewitt_, _Sobel_ i _quick_). Segmentirana slika je zatim kodovana odgovarajućim vrijednostima koje pripadaju istom segmentu, nakon čega je izvršeno bojenje slike radi vizuelnog prikaza segmentacije.
 
